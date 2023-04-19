@@ -1,6 +1,7 @@
 *~
 local.mk
-build/
+build/*
+!build/minified
 tags
 .DS_Store
 Makefile
